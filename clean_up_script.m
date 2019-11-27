@@ -1,0 +1,10 @@
+clear all;
+delete('../RCSP_Toolbox_GPL/allEEGSignals.mat');
+delete('../RCSP_Toolbox_GPL/allEEGSignals_bak.mat');
+delete('../RCSP_Toolbox_GPL/CSPMatrix.mat');
+delete('../RCSP_Toolbox_GPL/name.mat');
+delete('../RCSP_Toolbox_GPL/onlinedata.mat');
+delete('../RCSP_Toolbox_GPL/result_matrix.mat');
+delete('../RCSP_Toolbox_GPL/testingEEGSignals.mat');
+delete('../RCSP_Toolbox_GPL/trainingEEGSignals.mat');
+delete('../RCSP_Toolbox_GPL/trainFeatures.mat');
